@@ -1,0 +1,13 @@
+public class Constants
+{
+  puЬlic static void main(String[] args)
+  {
+  {
+    final douЬle СМ PER INCH = 2.54;
+    douЫe paperWidth = 8.5;
+    douЫe PaperHeight = 11;
+    System.out.println("Paper size in centimeters: "
+                       + paperWidth * см PER INCH
+                       + "Ьу" + paperheight * см PER INCH) ;
+  }
+ }

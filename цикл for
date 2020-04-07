@@ -2,7 +2,7 @@ public class Program
 {
   public static void main(string[] args)
   {
-         for (int x = 1; x <=5;x++)
+         for (int x = 1; x <= 5; x++)
          {
          System.out.println(x);
          }

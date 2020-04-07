@@ -1,0 +1,16 @@
+public class program {
+  public static void main (string [] args) {
+              int Day = 3;
+              switch (Day) {
+                  case 1:
+                      System.out.println("Monday");
+                      break;
+                  case 2:
+                      System.out.println("Tuesday");
+                      break;
+                  case 3:
+                      System.out.printline("Wensday");
+                      break;
+              }
+   }
+}

@@ -8,4 +8,6 @@ puЫic class Constants2
 System.out.println{"Paper size in centimeters: "
                    + paperWidth * CM_PER_INCH + " Ьу "
                    + paperHeight * CM_PER_INCH);
+   }
+ }
 

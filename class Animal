@@ -1,5 +1,6 @@
 public class Animal {
     private int size;
+    private String name,breed;
 
     public int getSize() {
         return size;
